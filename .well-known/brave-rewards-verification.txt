@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bokis.tech 
+Token: 2304e2354ba02524696d39baebc1f9c3235ab7749530aaa00c4f13d7562842f8
